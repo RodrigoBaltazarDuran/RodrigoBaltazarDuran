@@ -8,7 +8,10 @@ Soy un ingeniero de software con más de 2 años de experiencia en el desarrollo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDuran&show_icons=true&theme=tokyonight)
 
-### Lenguajes y herramientas:
+## Algunos de mis proyectos
+* [Juego Secreto](https://rodrigobaltazarduran.github.io/juego-secreto/)
+
+## Lenguajes y herramientas:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/4c7d2413-77d1-4dd8-a5c4-31d233d2d2c2" />
 <img align="left" alt="Html5" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/bfc3c181-dd29-4c60-a3ab-09160bc0b86b" />
 <img align="left" alt="Css3" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/a6615645-d51f-4daa-9a09-cab3a50d3806" />
