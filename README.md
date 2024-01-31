@@ -26,5 +26,5 @@ Soy un ingeniero de software con más de 2 años de experiencia en el desarrollo
 <img align="left" alt="Spring Boot" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/3491814a-5ac4-43a6-81c0-664a08ff19c9" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/ecba34c5-5271-4b92-93c6-2dd6d4450e55" />
-<img align="left" alt="Php" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
+<img align="left" alt="Php" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/ea674c9c-9aa7-4e6e-b29f-5e621cec4cbb" />
 <img align="left" alt="Prisma io" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/7c4fe132-abbb-40fb-9de6-4f1305347b7e" />
