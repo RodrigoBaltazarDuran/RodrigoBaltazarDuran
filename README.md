@@ -28,7 +28,6 @@ Soy un ingeniero de software con más de 2 años de experiencia en el desarrollo
 <img align="left" alt="GitHub" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/ecba34c5-5271-4b92-93c6-2dd6d4450e55" />
 <img align="left" alt="Php" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/ea674c9c-9aa7-4e6e-b29f-5e621cec4cbb" />
 <img align="left" alt="Prisma io" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/7c4fe132-abbb-40fb-9de6-4f1305347b7e" />
-____
 <img align="left" alt="MySql" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/469b69e2-ee2c-4f4c-886b-1534b4bc0198" />
 <img align="left" alt="PostgreSql" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/54de7735-24cd-4245-8463-a5e38be9f9b4" />
 <img align="left" alt="Sql Server" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/fe2434a8-e0d9-44a5-9a1d-f07b4e7ec558" />
