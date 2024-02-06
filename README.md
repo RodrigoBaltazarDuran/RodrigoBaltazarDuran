@@ -4,9 +4,8 @@ Soy un ingeniero de software con más de 2 años de experiencia en el desarrollo
 
 ## Mis estadisticas son:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoDuran&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDuran&show_icons=true&theme=tokyonight)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoBaltazarDuran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rodrigo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBaltazarDuran&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## Algunos de mis proyectos
 * [Juego Secreto](https://rodrigobaltazarduran.github.io/juego-secreto/)
