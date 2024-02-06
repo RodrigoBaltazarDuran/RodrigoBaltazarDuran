@@ -8,11 +8,12 @@ La capacidad de comunicarme eficazmente con el equipo y otros stakeholders ha si
 
 ## Mis estadisticas son:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoBaltazarDuran&theme=dracula&hide_border=true" alt="Rodrigo's github stats" /></a> | <a href="https://github.com/RodrigoBaltazarDuran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBaltazarDuran&layout=compact&theme=dracula&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoBaltazarDuran&theme=dracula&hide_border=true" alt="Rodrigo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBaltazarDuran&layout=compact&theme=dracula&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 ## Algunos de mis proyectos
 * [Juego Secreto](https://rodrigobaltazarduran.github.io/juego-secreto/)
+* [Primer API con Java](https://github.com/RodrigoBaltazarDuran/mi-primer-api-rest)
 
 ## Lenguajes y frameworks:
 <img alt="JavaScript Vanilla" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/4efb1e79-24f2-449e-a96f-3a949e5948b1" />
