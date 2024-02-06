@@ -12,23 +12,23 @@ Soy un ingeniero de software con más de 2 años de experiencia en el desarrollo
 * [Juego Secreto](https://rodrigobaltazarduran.github.io/juego-secreto/)
 
 ## Lenguajes y herramientas:
-<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/4c7d2413-77d1-4dd8-a5c4-31d233d2d2c2" />
-<img align="left" alt="Html5" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/bfc3c181-dd29-4c60-a3ab-09160bc0b86b" />
-<img align="left" alt="Css3" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/a6615645-d51f-4daa-9a09-cab3a50d3806" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
-<img align="left" alt="TailwindCss" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/03a9e413-cd92-4f53-b238-9fccee3826c2" />
-<img align="left" alt="JavaScript Vanilla" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="VueJs" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/38b55d2d-b5b9-4f85-88b1-ce982e4e391b" />
-<img align="left" alt="ReactJs" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/c220b0a7-cae1-47a0-8eae-8c0902c11bfc" />
-<img align="left" alt="TypeScript" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/23ee29c3-ee16-437f-8d91-eadfee4a4a42" />
-<img align="left" alt="NodeJs" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/239dc433-eb92-4f9a-8439-a35b70f8055e" />
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="Spring Boot" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/3491814a-5ac4-43a6-81c0-664a08ff19c9" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/ecba34c5-5271-4b92-93c6-2dd6d4450e55" />
-<img align="left" alt="Php" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/ea674c9c-9aa7-4e6e-b29f-5e621cec4cbb" />
-<img align="left" alt="Prisma io" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/7c4fe132-abbb-40fb-9de6-4f1305347b7e" />
-<img align="left" alt="MySql" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/469b69e2-ee2c-4f4c-886b-1534b4bc0198" />
-<img align="left" alt="PostgreSql" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/54de7735-24cd-4245-8463-a5e38be9f9b4" />
-<img align="left" alt="Sql Server" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/fe2434a8-e0d9-44a5-9a1d-f07b4e7ec558" />
-<img align="left" alt="DBeaver" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/c4305891-5061-4421-b20b-f20dd57bc752" />
+<img alt="Visual Studio Code" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/4c7d2413-77d1-4dd8-a5c4-31d233d2d2c2" />
+<img alt="Html5" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/bfc3c181-dd29-4c60-a3ab-09160bc0b86b" />
+<img alt="Css3" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/a6615645-d51f-4daa-9a09-cab3a50d3806" />
+<img alt="Bootstrap" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/c5c2ba9a-f726-413d-beae-3a274cf9e362" />
+<img alt="TailwindCss" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/03a9e413-cd92-4f53-b238-9fccee3826c2" />
+<img alt="JavaScript Vanilla" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/4efb1e79-24f2-449e-a96f-3a949e5948b1" />
+<img alt="VueJs" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/38b55d2d-b5b9-4f85-88b1-ce982e4e391b" />
+<img alt="ReactJs" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/c220b0a7-cae1-47a0-8eae-8c0902c11bfc" />
+<img alt="TypeScript" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/23ee29c3-ee16-437f-8d91-eadfee4a4a42" />
+<img alt="NodeJs" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/239dc433-eb92-4f9a-8439-a35b70f8055e" />
+<img alt="Java" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/ea0c5e33-fb1f-4a82-b82f-c0dfa7ce761a" />
+<img alt="Spring Boot" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/3491814a-5ac4-43a6-81c0-664a08ff19c9" />
+<img alt="Git" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/f7aa62e0-3c7f-4d1e-89df-3c33bb27a21f" />
+<img alt="GitHub" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/ecba34c5-5271-4b92-93c6-2dd6d4450e55" />
+<img alt="Php" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/ea674c9c-9aa7-4e6e-b29f-5e621cec4cbb" />
+<img alt="Prisma io" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/7c4fe132-abbb-40fb-9de6-4f1305347b7e" />
+<img alt="MySql" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/469b69e2-ee2c-4f4c-886b-1534b4bc0198" />
+<img alt="PostgreSql" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/54de7735-24cd-4245-8463-a5e38be9f9b4" />
+<img alt="Sql Server" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/fe2434a8-e0d9-44a5-9a1d-f07b4e7ec558" />
+<img alt="DBeaver" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/c4305891-5061-4421-b20b-f20dd57bc752" />
