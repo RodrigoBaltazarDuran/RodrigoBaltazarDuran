@@ -8,7 +8,7 @@ La capacidad de comunicarme eficazmente con el equipo y otros stakeholders ha si
 
 ## Mis estadisticas son:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoBaltazarDuran&theme=dracula&hide_border=true" alt="Rodrigo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBaltazarDuran&layout=compact&theme=dracula&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoBaltazarDuran&theme=dracula&hide_border=true" alt="Rodrigo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBaltazarDuran&layout=compact&theme=dracula&hide_border=true&langs_count=10" /></a> |
 | ------------- | ------------- |
 
 ## Algunos de mis proyectos
