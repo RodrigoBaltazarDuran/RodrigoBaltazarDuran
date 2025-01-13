@@ -16,6 +16,7 @@ La capacidad de comunicarme eficazmente con el equipo y otros stakeholders ha si
 * [Primer API con Java](https://github.com/RodrigoBaltazarDuran/mi-primer-api-rest)
 * [Encriptar texto](https://rodrigobaltazarduran.github.io/encriptar_desencriptar_texto/)
 * [Inventario](https://github.com/RodrigoBaltazarDuran/inventario)
+* [Academias](https://github.com/RodrigoBaltazarDuran/academias)
 
 ## Lenguajes y frameworks:
 <img alt="JavaScript Vanilla" width="30px" src="https://github.com/RodrigoBaltazarDuran/RodrigoBaltazarDuran/assets/66747394/4efb1e79-24f2-449e-a96f-3a949e5948b1" />
