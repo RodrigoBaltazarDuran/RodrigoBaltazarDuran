@@ -1,6 +1,6 @@
 ### Hola a todos mi nombre es Rodrigo Durán ✋
 
-Soy ingeniero de software con más de 2 años de experiencia en el desarrollo de sistemas web. Mi destreza se refleja en la creación de soluciones eficientes y escalables, combinando habilidades técnicas avanzadas con un enfoque estratégico.
+Soy ingeniero de software con más de 3 años de experiencia en el desarrollo de sistemas web. Mi destreza se refleja en la creación de soluciones eficientes y escalables, combinando habilidades técnicas avanzadas con un enfoque estratégico.
 
 He liderado equipos con éxito, desempeñando roles clave como líder técnico, donde coordiné el diseño e implementación de proyectos, asegurando la calidad y cumplimiento de plazos. Mi habilidad para abordar desafíos complejos se destaca, respaldada por una profunda comprensión de las mejores prácticas de ingeniería de software.
 
